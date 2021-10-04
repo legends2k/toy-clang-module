@@ -1,0 +1,4 @@
+module MyCMod {
+  header "adder.h"
+  export *
+}

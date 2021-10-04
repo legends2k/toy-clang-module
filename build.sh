@@ -1,0 +1,1 @@
+swiftc -I . hello.swift
