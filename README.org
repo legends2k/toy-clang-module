@@ -1,7 +1,10 @@
-#+title: Use Obj-C++ code from Swift
+#+title: Obj-C++ module + Swift
+
+A toy Objective-C++ module is build and consumed (~import~-ed) from Swift code.
 
 * References
 
   - [[https://riptutorial.com/swift/example/1418][RipTutorial]]: technique used here
   - [[https://medium.com/@mail2ashislaha/swift-objective-c-interoperability-static-libraries-modulemap-etc-39caa77ce1fc][Swift Objective C interoperability]]: comprehensive discussion on most combinations of Swift-Obj-C interop
   - [[https://nullprogram.com/blog/2017/08/20/][Chris Wellons' Makefile tutorial]]
+  - [[https://clang.llvm.org/docs/Modules.html][Modules - Clang Documentation]]
